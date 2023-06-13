@@ -2,3 +2,8 @@ this is file2
 dssd
 sdfsddsf
 hh
+<<<<<<< HEAD
+=======
+this is merge-branch
+qand also this
+>>>>>>> merge-branch
